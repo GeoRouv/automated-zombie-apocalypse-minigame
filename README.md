@@ -4,7 +4,7 @@ A project in OOP programming in order to practise "new" and "delete" operators, 
 # Game Description & Rules
 We have two creatures: good creature and bad creature. The creatures live side by side, each in a specific position. 
   
-The creatures have the following characteristics:
+The creatures have the following characteristics:<br/>
 • Every creature has a name. 
 • Each creature has a life expectancy to live. When is born its life equals with L> 0 (L is common to all creatures).
 • When the life of a creature hits zero, the creature falls into the zombie state. For creatures in zombie mode, the following actions have no effect.
