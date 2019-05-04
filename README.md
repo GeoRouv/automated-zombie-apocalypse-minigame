@@ -1,7 +1,7 @@
 # Automated-Zombie-Apocalypse-Minigame
 A project in OOP programming in order to practise "new" and "delete" operators, copy constructor functions, "this", inheritance, and virtual functions.
 
-# Game Description & Rules
+## Game Description & Rules
 We have two creatures: good creature and bad creature. The creatures live side by side, each in a specific position. 
   
 The creatures have the following characteristics:<br/>
@@ -17,5 +17,6 @@ The creatures have the following characteristics:<br/>
 
 ## Compilation command: 
   g++ classes.h main.c++ text.c++ text.h
+  
 ## Execution command:	
 ./a.out
