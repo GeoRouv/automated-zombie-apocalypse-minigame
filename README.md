@@ -16,7 +16,7 @@ The creatures have the following characteristics:<br/>
   At each moment a creature is randomly selected and an action is randomly applied, bless or beat. This process is repeated M times. It is possible that the same creature will be selected more than once. The result is considered positive when, ultimately, the community consists of good creatures only.
 
 ## Compilation command: 
-  g++ classes.h main.c++ text.c++ text.h
+    $ g++ classes.h main.c++ text.c++ text.h
   
 ## Execution command:	
-./a.out
+    $ ./a.out
