@@ -15,8 +15,8 @@ The creatures have the following characteristics:<br/>
   Bad creatures, when blessed and robust enough, are cloned by occupying all their next consecutive positions in the community occupied by zombie creatures (unless the bad creature blessed is at the end). They are considered "robust" if their current life is greater than a threshold(bad_thrsh) that is common to all bad creatures.<br/><br/>
   At each moment a creature is randomly selected and an action is randomly applied, bless or beat. This process is repeated M times. It is possible that the same creature will be selected more than once. The result is considered positive when, ultimately, the community consists of good creatures only.
 
-## Compilation command: 
+## Compilation  
     $ g++ classes.h main.c++ text.c++ text.h
   
-## Execution command:	
+## Run	
     $ ./a.out
