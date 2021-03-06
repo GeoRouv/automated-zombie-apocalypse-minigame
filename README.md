@@ -1,4 +1,4 @@
-# Automated-Zombie-Apocalypse-Minigame
+# automated-zombie-apocalypse-minigame
 A project in OOP programming in order to practise "new" and "delete" operators, copy constructor functions, "this", inheritance, and virtual functions.
 
 ## Game Description & Rules
